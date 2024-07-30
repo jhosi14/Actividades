@@ -1,0 +1,6 @@
+Nombre: jhose
+Apellido: fernandez
+Carrera: sistemas
+Nombre: fernando
+Apellido: camata
+Carrera: informatica
